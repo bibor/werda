@@ -2,7 +2,7 @@ Werda
 =====
 
 Notifies you if someone logged into your server via SSH. It parses the output of
-`journalctl` and pushes a message to a [gotify](https://gotify.net/] server if a
+`journalctl` and pushes a message to a [gotify](https://gotify.net/) server if a
 new login via ssh occured.
 
 Dpendencies
